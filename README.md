@@ -1,5 +1,5 @@
 <h1> Hi there! I'm Quang Phong. 
-  <img src="https://github.com/quang-phong/quang-phong/blob/main/media/gif/bear-and-fish.gif" width="120px">
+  <img src="https://github.com/quang-phong/quang-phong/blob/main/media/gif/bear-and-fish.gif" width="80px">
 </h1>
 Thank for spending your time here. 👋
 
