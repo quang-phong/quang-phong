@@ -14,7 +14,7 @@ Hope you'll find something helpful or inspiring in my repositories. I'd love any
 
 ## 🚀 Some of my latest public projects:
 
-| **Year** 📆 | **Latest public repo** 📽️ |  **Project name** 🗃 |
+| **Year** 📆 | **Latest public repo** 📽️ |  **Project name** ✈️ |
 | - | - | - | 
 | 2022 | [![Github Badge](https://img.shields.io/badge/-project--1--beat--2022--european--crises-171515?style=flat&logo=github&logoColor=white&link=https://github.com/project-1-beat-2022-european-crises)](https://github.com/quang-phong/project-1-beat-2022-european-crises) | Beat 2020 European Crises 🇪🇺 |
 | 2022 | [![Github Badge](https://img.shields.io/badge/-project--2--smart--emergency--lighting-171515?style=flat&logo=github&logoColor=white&link=https://github.com/project-2-smart-emergency-lighting)](https://github.com/quang-phong/project-2-smart-emergency-lighting) | Smart Emergency Lighting 🚨 |
@@ -29,9 +29,9 @@ Hope you'll find something helpful or inspiring in my repositories. I'd love any
 >Check out all my [repositories](https://github.com/quang-phong?tab=repositories) for more details.
 
 ## 🧑🏻‍🚀 Who am I?
-
-
-## ✈️ My journey:
+I have a Master's degree in Business Intelligence and Smart Services, and a Bachelor's degree in International Business and Economics.
+Even when I was a child, I loved both natural and social science. Therefore, I do not want to label myself, for a big label might restrict my space to grow. With the life goal of bettering the world, I can play management, technical, and commercial roles at the same time.
+The first 20 years of my life was spent in Vietnam 🇻🇳. Now I am staying in The Netherlands 🇳🇱 chasing my dreams and defining my career. I enjoy comparing the 2 cultures and keeping the positive aspects of them in me. Born in the transition period between Millennials and Generation Z, I can relate to both of them to an extent. I believe you do not need to belong to any category. Life has many facets, so does every individual. I am living in different worlds and taking the best from them. 
 
 
 ## 🤟🏼 My passions:
@@ -40,13 +40,14 @@ Hope you'll find something helpful or inspiring in my repositories. I'd love any
 - smart service and product design
 - business and economic analysis
 
-## ✨ My favorite pastimes:
-- badminton 🏸
+## ✨ My hobbies:
 - music 🎤
+- badminton 🏸
 
 ## 📇 My contacts:
 - [![Linkedin Badge](https://img.shields.io/badge/-@quangphong-0072b1?style=flat&logo=LinkedIn&link=https://www.linkedin.com/in/quangphong/)](https://www.linkedin.com/in/quangphong/) 
 - [![Github Badge](https://img.shields.io/badge/-@quang--phong-171515?style=flat&logo=github&logoColor=white&link=https://github.com/quang-phong)](https://github.com/quang-phong)
 - [![Email Badge](https://img.shields.io/badge/-quangtrieuphong@outlook.com-00a2ed?style=flat&logo=microsoftoutlook&logoColor=white&link=mailto:quangtrieuphong@outlook.com)](mailto:quangtrieuphong@outlook.com)
 
-Note: CV
+>**Note**
+>For my CV, please leave a message at my LinkedIn or send me email.
