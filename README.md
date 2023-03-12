@@ -1,4 +1,6 @@
-# Hi there! I'm Quang Phong.
+<h1> Hi there! I'm Quang Phong. 
+  <img src="https://github.com/quang-phong/quang-phong/tree/main/media/gif/bear-and-fish.gif" width="80px">
+</h1>
 Thank for spending your time here. 👋
 
 I always believe I am a beginner in everything I aspire to do. And I'm so happy about that. It means I am young, or at least my soul is. 😉
