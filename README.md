@@ -14,7 +14,7 @@ Hope you'll find something helpful or inspiring in my repositories. I'd love any
 
 ## Some of my latest public projects:
 
-| **Year** 📆 | **Latest public repo** 📽️ |  **Project name** 📽️ |
+| **Year** 📆 | **Latest public repo** 📽️ |  **Project name** ✈️ |
 | - | - | - | 
 | 2022 | [![Github Badge](https://img.shields.io/badge/-project--1--beat--2022--european--crises-171515?style=flat&logo=github&logoColor=white&link=https://github.com/project-1-beat-2022-european-crises)](https://github.com/quang-phong/project-1-beat-2022-european-crises) | Beat 2020 European Crises 🇪🇺 |
 | 2022 | [![Github Badge](https://img.shields.io/badge/-project--2--smart--emergency--lighting-171515?style=flat&logo=github&logoColor=white&link=https://github.com/project-2-smart-emergency-lighting)](https://github.com/quang-phong/project-2-smart-emergency-lighting) | Smart Emergency Lighting 🚨 |
