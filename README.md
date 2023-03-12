@@ -1,4 +1,4 @@
-### Hi there! I'm Quang Phong.
+# Hi there! I'm Quang Phong.
 Thank for spending your time here. 👋
 
 I always believe I am a beginner in everything I aspire to do. And I'm so happy about that. It means I am young, or at least my soul is. 😉
