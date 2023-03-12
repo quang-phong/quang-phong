@@ -12,9 +12,9 @@ I believe I will always be a beginner in everything I aspire to do. And I'm happ
 Hope you'll find something helpful or inspiring in my repositories. I'd love any invitation to collaborate with you. 🤝
 
 
-## Some of my latest public projects:
+## 🚀 Some of my latest public projects:
 
-| **Year** 📆 | **Latest public repo** 📽️ |  **Project name** ✈️ |
+| **Year** 📆 | **Latest public repo** 📽️ |  **Project name** 🗃 |
 | - | - | - | 
 | 2022 | [![Github Badge](https://img.shields.io/badge/-project--1--beat--2022--european--crises-171515?style=flat&logo=github&logoColor=white&link=https://github.com/project-1-beat-2022-european-crises)](https://github.com/quang-phong/project-1-beat-2022-european-crises) | Beat 2020 European Crises 🇪🇺 |
 | 2022 | [![Github Badge](https://img.shields.io/badge/-project--2--smart--emergency--lighting-171515?style=flat&logo=github&logoColor=white&link=https://github.com/project-2-smart-emergency-lighting)](https://github.com/quang-phong/project-2-smart-emergency-lighting) | Smart Emergency Lighting 🚨 |
@@ -28,23 +28,25 @@ Hope you'll find something helpful or inspiring in my repositories. I'd love any
 >**Note**
 >Check out all my [repositories](https://github.com/quang-phong?tab=repositories) for more details.
 
-## Who am I?
+## 🧑🏻‍🚀 Who am I?
 
 
-## My journey:
+## ✈️ My journey:
 
 
-## My passions:
+## 🤟🏼 My passions:
 - data science and machine learning
-- IoT real-time applications
+- real-time IoT applications
 - smart service and product design
-- business and economics analysis
+- business and economic analysis
 
-## My favorite pastimes:
--
-- 
+## ✨ My favorite pastimes:
+- badminton 🏸
+- music 🎤
 
-## My contact:
-
+## 📇 My contacts:
+- [![Linkedin Badge](https://img.shields.io/badge/-@quangphong-0072b1?style=flat&logo=LinkedIn&link=https://www.linkedin.com/in/quangphong/)](https://www.linkedin.com/in/quangphong/) 
+- [![Github Badge](https://img.shields.io/badge/-@quang--phong-171515?style=flat&logo=github&logoColor=white&link=https://github.com/quang-phong)](https://github.com/quang-phong)
+- [![Email Badge](https://img.shields.io/badge/-quangtrieuphong@outlook.com-00a2ed?style=flat&logo=microsoftoutlook&logoColor=white&link=mailto:quangtrieuphong@outlook.com)](mailto:quangtrieuphong@outlook.com)
 
 Note: CV
