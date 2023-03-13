@@ -25,13 +25,13 @@ Hope you'll find something helpful or inspiring in my repositories. I'd love any
 | 2020 | [![Github Badge](https://img.shields.io/badge/-project--7--truth--of--supply--chain--collaboration-171515?style=flat&logo=github&logoColor=white&link=https://github.com/project-7-truth-of-supply-chain-collaboration)](https://github.com/quang-phong/project-7-truth-of-supply-chain-collaboration) | The Truth of Supply Chain Collaboration 🤝 |
 | 2019 | [![Github Badge](https://img.shields.io/badge/-project--8--food--battle--the--tale--of--2--cities-171515?style=flat&logo=github&logoColor=white&link=https://github.com/project-8-food-battle-the-tale-of-2-cities)](https://github.com/quang-phong/project-8-food-battle-the-tale-of-2-cities) | Food Battle: The Tale of 2 Cities 🍜 |
 
->**Note**
+>**Note**  
 >Check out all my [repositories](https://github.com/quang-phong?tab=repositories) for more details.
 
 ## 🧑🏻‍🚀 Who am I?
-I have a Master's degree in Business Intelligence and Smart Services, and a Bachelor's degree in International Business and Economics.
-Even when I was a child, I loved both natural and social science. Therefore, I do not want to label myself, for a big label might restrict my space to grow. With the life goal of bettering the world, I can play management, technical, and commercial roles at the same time.
-The first 20 years of my life was spent in Vietnam 🇻🇳. Now I am staying in The Netherlands 🇳🇱 chasing my dreams and defining my career. I enjoy comparing the 2 cultures and keeping the positive aspects of them in me. Born in the transition period between Millennials and Generation Z, I can relate to both of them to an extent. I believe you do not need to belong to any category. Life has many facets, so does every individual. I am living in different worlds and taking the best from them. 
+I have a Master's degree in Business Intelligence and Smart Services, and a Bachelor's degree in International Business and Economics.  
+Even when I was a child, I loved both natural and social science. Therefore, now I do not want to label myself, for a big label might restrict my space to grow. With the life goal of bettering the world, I can play management, technical, and commercial roles at the same time.  
+The first 20 years of my life was spent in 🇻🇳 Vietnam. Now I am staying in 🇳🇱 the Netherlands chasing my dreams and defining my career. I enjoy the 2 cultures and keeping the positive aspects of them in me. Born in the transition period between Millennials and Gen Z, I can relate to the core of each generation to an extent. I believe you do not need to belong to any category. Life has many facets, so does every individual. I am living in different worlds and taking the best from them. 
 
 
 ## 🤟🏼 My passions:
@@ -49,5 +49,5 @@ The first 20 years of my life was spent in Vietnam 🇻🇳. Now I am staying in
 - [![Github Badge](https://img.shields.io/badge/-@quang--phong-171515?style=flat&logo=github&logoColor=white&link=https://github.com/quang-phong)](https://github.com/quang-phong)
 - [![Email Badge](https://img.shields.io/badge/-quangtrieuphong@outlook.com-00a2ed?style=flat&logo=microsoftoutlook&logoColor=white&link=mailto:quangtrieuphong@outlook.com)](mailto:quangtrieuphong@outlook.com)
 
->**Note**
+>**Note**  
 >For my CV, please leave a message at my LinkedIn or send me email.
