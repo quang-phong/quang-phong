@@ -50,4 +50,4 @@ The first 20 years of my life was spent in 🇻🇳 Vietnam. Now I am staying in
 - [![Email Badge](https://img.shields.io/badge/-quangtrieuphong@outlook.com-00a2ed?style=flat&logo=microsoftoutlook&logoColor=white&link=mailto:quangtrieuphong@outlook.com)](mailto:quangtrieuphong@outlook.com)
 
 >**Note**  
->For my CV, please leave a message at my LinkedIn or send me email.
+>For my CV, please leave a message at my LinkedIn or send me an email.
