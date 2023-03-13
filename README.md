@@ -1,4 +1,4 @@
-<h1> Hi there! I'm Quang Phong. 
+<h1> Hi there! I'm Quang Phong. Don't forget to check out my repositories.
   <img src="https://github.com/quang-phong/quang-phong/blob/main/media/gif/bear-and-fish.gif" width="80px">
 </h1>
 
