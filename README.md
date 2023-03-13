@@ -35,10 +35,10 @@ The first 20 years of my life was spent in 🇻🇳 Vietnam. Now I am staying in
 
 
 ## 🤟🏼 My passions:
-- data science and machine learning
-- real-time IoT applications
-- smart service and product design
-- business and economic analysis
+- data science and machine learning 📡
+- real-time IoT applications 🤖
+- smart service and product design 💡
+- business and economic analysis 📈
 
 ## ✨ My hobbies:
 - music 🎤
