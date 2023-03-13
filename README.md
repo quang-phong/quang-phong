@@ -36,10 +36,10 @@ Hope you'll find something helpful or inspiring in my repositories. I'd love any
 
 
 ## 🤟🏼 My passions:
-- data science and machine learning 📡
-- real-time IoT applications 🤖
-- smart service and product design 💡
-- business and economic analysis 📈
+- Data science and machine learning 📡
+- Real-time IoT applications 🤖
+- Smart service and product design 💡
+- Business and economic analysis 📈
 
 ## ✨ My hobbies:
 - music 🎤
