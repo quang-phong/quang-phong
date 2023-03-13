@@ -42,8 +42,8 @@ Hope you'll find something helpful or inspiring in my repositories. I'd love any
 - Business and economic analysis 📈
 
 ## ✨ My hobbies:
-- music 🎤
-- badminton 🏸
+- Music 🎤
+- Badminton 🏸
 
 ## 📇 My contacts:
 - [![Linkedin Badge](https://img.shields.io/badge/-@quangphong-0072b1?style=flat&logo=LinkedIn&link=https://www.linkedin.com/in/quangphong/)](https://www.linkedin.com/in/quangphong/) 
