@@ -6,10 +6,10 @@
 [![Github Badge](https://img.shields.io/badge/-@quang--phong-171515?style=flat&logo=github&logoColor=white&link=https://github.com/quang-phong)](https://github.com/quang-phong)
 [![Email Badge](https://img.shields.io/badge/-quangtrieuphong@outlook.com-00a2ed?style=flat&logo=microsoftoutlook&logoColor=white&link=mailto:quangtrieuphong@outlook.com)](mailto:quangtrieuphong@outlook.com)
 
-Thank for spending your time here. Don't forget to check out my repositories. 👋
+Thanks for spending your time here. Don't forget to check out my repositories. 👋
 
-I believe I will always be a beginner in everything I aspire to do. And I'm happy about that. It means I am still young enough not to hesitate learning anything new. 😉
-Hope you'll find something helpful or inspiring in my repositories. I'd love any invitation to collaborate with you. 🤝
+I like to think that I am always a beginner in everything I aspire to do. It means I am still young enough not to hesitate to learn anything new. 😉
+Hope you'll find something helpful or inspiring in my repositories. I'd be ready for any invitation to collaborate from you. 🤝
 
 
 ## 🚀 Some of my latest public projects:
