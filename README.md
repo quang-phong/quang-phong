@@ -40,6 +40,7 @@ Hope you'll find something helpful or inspiring in my repositories. I'd be ready
 - Real-time IoT applications 🤖
 - Smart service and product design 💡
 - Business and economic analysis 📈
+- Intelligent robotic process automation 
 
 ## ✨ My hobbies:
 - Music 🎤
