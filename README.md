@@ -49,7 +49,7 @@ Hope you'll find something helpful or inspiring in my repositories. I'd be ready
 ## 📇 My contacts:
 - [![Linkedin Badge](https://img.shields.io/badge/-@quangphong-0072b1?style=flat&logo=LinkedIn&link=https://www.linkedin.com/in/quangphong/)](https://www.linkedin.com/in/quangphong/) 
 - [![Github Badge](https://img.shields.io/badge/-@quang--phong-171515?style=flat&logo=github&logoColor=white&link=https://github.com/quang-phong)](https://github.com/quang-phong)
-- [![Email Badge](https://img.shields.io/badge/-quangtrieuphong@outlook.com-00a2ed?style=flat&logo=microsoftoutlook&logoColor=white&link=mailto:quangtrieuphong@outlook.com)](mailto:quangtrieuphong@outlook.com)
+- [![Email Badge](https://img.shields.io/badge/-quang.phong@outlook.com-00a2ed?style=flat&logo=microsoftoutlook&logoColor=white&link=mailto:quang.phong@outlook.com)](mailto:quang.phong@outlook.com)
 
 >**Note**  
 >For my CV, please leave a message at my LinkedIn or send me an email.
