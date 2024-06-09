@@ -23,10 +23,11 @@
 | DS | Numpy, Pandas, Scikit-Learn, TensorFlow, dplyr, tidyr, XGBoost |
 | Backend | Django Rest Framework, Fast API, Flask |
 | Frontend | Tkinter, CustomTkinter, React.js, CSS, HTML, Figma |
+| App | PyInstaller, InnoSetup |   
 | DBMS | SQL, Postgres |
 | Cloud | Azure, Blynk, ThingSpeak, AWS |
 | Visual | Tableau, Ggplot2, Seaborn, Plotly |
-| Stat | IBM SPSS, IBM AMOS,  |
+| Stat | IBM SPSS, IBM AMOS |
 | MS | Advanced Excel, Macros VBA, Powerpoint |
 | Others | Git, VSCode, Postman |
 
