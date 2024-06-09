@@ -9,7 +9,7 @@
 
 ## 🧑🏻‍🚀 About
 
-🎓 I am a data scientist and software developer, having a Master's degree in Business Intelligence and Smart Services, and a Bachelor's degree in International Business and Economics. Leveraging my experience as a data scientist, software developer, machine learning developer, researcher, and math teacher, I can play technical, commercial, and management roles in data-centric projects.  
+🎓 I am a data scientist and software developer, having Master's degree in Business Intelligence and Smart Services, and Bachelor's degree in International Business and Economics. Leveraging my experience as a data scientist, software developer, machine learning developer, researcher, and math teacher, I can play technical, commercial, and management roles in data-intensive projects.  
 
 🛬 I am based in Utrecht, the Netherlands 🇳🇱.  
 
