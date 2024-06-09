@@ -18,7 +18,7 @@
 
 | **Group** |  **Tech** |
 | - | - | 
-| Language | Python, R, C++ |
+| Language | ![Python](https://img.shields.io/badge/-Python-171515?style=flat&logo=python&logoColor=white), R, C++ |
 | DS | Numpy, Pandas, Scikit-Learn, TensorFlow, dplyr, tidyr, XGBoost |
 | Backend | Django Rest Framework, Fast API, Flask |
 | Frontend | Tkinter, CustomTkinter, React.js, CSS, HTML, Figma |
