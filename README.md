@@ -7,7 +7,6 @@
 [![Email Badge](https://img.shields.io/badge/-quang.phong@outlook.com-00a2ed?style=flat&logo=microsoftoutlook&logoColor=white&link=mailto:quang.phong@outlook.com)](mailto:quang.phong@outlook.com)
 
 
-
 ## 🧑🏻‍🚀 About
 
 🎓 I am a data scientist and software developer, having a Master's degree in Business Intelligence and Smart Services, and a Bachelor's degree in International Business and Economics. With the experience of being a data scientist, software developer, machine learning scientist, researcher, math teacher, I can play technical, commercial, and management roles in data-centric projects.  
@@ -40,7 +39,7 @@
 - Intelligent robotic process automation 📈
 
 
-## 📇 Contacts:
+## 📇 Contacts
 
 - [![Linkedin Badge](https://img.shields.io/badge/-@quangphong-0072b1?style=flat&logo=LinkedIn&link=https://www.linkedin.com/in/quangphong/)](https://www.linkedin.com/in/quangphong/) 
 - [![Github Badge](https://img.shields.io/badge/-@quang--phong-171515?style=flat&logo=github&logoColor=white&link=https://github.com/quang-phong)](https://github.com/quang-phong)
@@ -49,7 +48,7 @@
 >**Note**  
 >For my CV, please leave a message at my LinkedIn or send me an email.
 
-## 📽️ Some small personal public projects:
+## 📽️ Some small public projects
 
 | **Repo** |  **Name** |
 | - | - | 
