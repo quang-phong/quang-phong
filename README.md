@@ -1,5 +1,5 @@
 <h1> Hi there! I'm Quang (Ashton).  
-  <img src="https://github.com/quang-phong/quang-phong/blob/main/media/gif/bear-and-fish.gif" width="80px">
+  <!-- <img src="https://github.com/quang-phong/quang-phong/blob/main/media/gif/bear-and-fish.gif" width="80px"> -->
 </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-@quangphong-0072b1?style=flat&logo=LinkedIn&link=https://www.linkedin.com/in/quangphong/)](https://www.linkedin.com/in/quangphong/) 
