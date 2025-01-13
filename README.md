@@ -1,4 +1,4 @@
-<h1> Hi there! I'm Quang (Ashton).  
+<h1> Hi there! I'm Quang.  
   <!-- <img src="https://github.com/quang-phong/quang-phong/blob/main/media/gif/bear-and-fish.gif" width="80px"> -->
 </h1>
 
@@ -9,9 +9,9 @@
 
 ## 🧑🏻‍🚀 About
 
-🎓 I am a data scientist and software developer, having Master's degree in Business Intelligence and Smart Services, and Bachelor's degree in International Business and Economics. Leveraging my experience as a data scientist, software developer, machine learning developer, researcher, and math teacher, I can play technical, commercial, and management roles in data-intensive projects.  
+🎓 A data scientist and software developer with Master's degree in Business Intelligence and Smart Services.
 
-🛬 I am based in Utrecht, the Netherlands 🇳🇱.  
+🛬 Currently based in Rotterdam, the Netherlands 🇳🇱.  
 
 
 ## 🚀 Tech stacks
@@ -47,19 +47,6 @@
 
 >**Note**  
 >For my CV, please leave a message at my LinkedIn or send me an email.
-
-## 📽️ Some small public projects
-
-| **Repo** |  **Name** |
-| - | - | 
-| [![Github Badge](https://img.shields.io/badge/-beat--2022--european--crises-171515?style=flat&logo=github&logoColor=white&link=https://github.com/beat-2022-european-crises)](https://github.com/quang-phong/beat-2022-european-crises) | Beat 2022 European Crises 🇪🇺 |
-| [![Github Badge](https://img.shields.io/badge/-smart--emergency--lighting-171515?style=flat&logo=github&logoColor=white&link=https://github.com/smart-emergency-lighting)](https://github.com/quang-phong/smart-emergency-lighting) | Smart Emergency Lighting 🚨 |
-| [![Github Badge](https://img.shields.io/badge/-non--intrusive--people--counter-171515?style=flat&logo=github&logoColor=white&link=https://github.com/non-intrusive-people-counter)](https://github.com/quang-phong/non-intrusive-people-counter) | Non-intrusive People Counter ⏳️ |
-| [![Github Badge](https://img.shields.io/badge/-get--over--toilet--paper-171515?style=flat&logo=github&logoColor=white&link=https://github.com/get-over-toilet-paper)](https://github.com/quang-phong/get-over-toilet-paper) | Get over Toilet Paper 🧻 |
-| [![Github Badge](https://img.shields.io/badge/-unstructured--data--analysis--modelling-171515?style=flat&logo=github&logoColor=white&link=https://github.com/unstructured-data-analysis-modelling)](https://github.com/quang-phong/unstructured-data-analysis-modelling) | Unstructured Data Analysis and Modelling 🎶 |
-| [![Github Badge](https://img.shields.io/badge/-gaming--advanced--statistical--analysis-171515?style=flat&logo=github&logoColor=white&link=https://github.com/gaming-advanced-statistical-analysis)](https://github.com/quang-phong/gaming-advanced-statistical-analysis) | Gaming Advanced Statistical Analysis 🎮 |
-| [![Github Badge](https://img.shields.io/badge/-truth--of--supply--chain--collaboration-171515?style=flat&logo=github&logoColor=white&link=https://github.com/truth-of-supply-chain-collaboration)](https://github.com/quang-phong/truth-of-supply-chain-collaboration) | The Truth of Supply Chain Collaboration 🤝 |
-| [![Github Badge](https://img.shields.io/badge/-food--battle--the--tale--of--2--cities-171515?style=flat&logo=github&logoColor=white&link=https://github.com/food-battle-the-tale-of-2-cities)](https://github.com/quang-phong/food-battle-the-tale-of-2-cities) | Food Battle: The Tale of 2 Cities 🍜 |
 
 
 
